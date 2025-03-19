@@ -46,6 +46,6 @@ return {
         }
     },
     keys = {
-        { '\\', ':NvimTreeToggle<CR>', desc = 'NvimTree toggle', silent = true },
+        { "\\", ":NvimTreeToggle<CR>", desc = "NvimTree toggle", silent = true },
     },
 }
